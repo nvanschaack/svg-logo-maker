@@ -4,7 +4,7 @@
 ![Example logo](./images/example-logo-nvs.png)
 
 ## Description
-This application should be used for those who need to generate a simple logo for their business or personal purposes.
+This application should be used for those who need to generate a simple logo for their business or personal purposes. You can customize the text in the logo, text color, shape, and shape color.
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -14,10 +14,10 @@ This application should be used for those who need to generate a simple logo for
 - [Contributing](#contributing)
 
 ## Installation
-Once the application is open in VS Code, make sure to do "npm i" to install the npm packages that are in the package.json. Then, when you are in the correct directory in your terminal, run "node index.js" and you will be prompted to answer questions based on the type of logo you would like to create.
+Once the application is open in VS Code, make sure to enter "npm i" in the terminal to install the npm packages that are in the package.json. Then, when you are in the correct directory in your terminal, run "node index.js" and then you will be prompted (in the terminal) to answer questions based on the type of logo you would like to create.
 
 ## Usage
-You will be prompted to answer 4 questions about your logo, once you answer those questions in the terminal, a logo.svg will be generated as a new file.
+You will be prompted to answer four questions about your logo in the terminal. Once you answer those questions, a logo.svg will be generated as a new file.
 
 ## License
   
