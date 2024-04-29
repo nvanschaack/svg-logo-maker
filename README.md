@@ -25,11 +25,11 @@ You will be prompted to answer four questions about your logo in the terminal. O
 
 ## Contributing
 
-what someone needs to know about takin gmy code and adding to it...
+Using the git forking technique, you can help contribute to this repo!
 
 ## Tests
 
-in order to run tests.....npm run test
+In order to run tests on this application, you will want to open the working directory in the terminal. Then, type "npm run test" into the terminal and you can see the tests passed.
 
 ## Questions
 
