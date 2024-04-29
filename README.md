@@ -25,11 +25,11 @@ You will be prompted to answer four questions about your logo in the terminal. O
 
 ## Contributing
 
-n/a
+what someone needs to know about takin gmy code and adding to it...
 
 ## Tests
 
-n/a
+in order to run tests.....npm run test
 
 ## Questions
 
