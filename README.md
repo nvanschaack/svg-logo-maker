@@ -1,7 +1,9 @@
 # Logo Maker
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ![Example logo](./images/example-logo-nvs.png)
+
+- [Link to walkthrough video](https://drive.google.com/file/d/1boaoO89Hehp7B3WqVMu8iPnfOXyOqCMh/view)
 
 ## Description
 This application should be used for those who need to generate a simple logo for their business or personal purposes. You can customize the text in the logo, text color, shape, and shape color.
